@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/marcmagedbaky/Desktop/Flutter/smart_city/build/fluttertoast/intermediates/res/merged/profile/drawable/notification_bg.xml",
+        "source": "/Users/marcmagedbaky/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/marcmagedbaky/Desktop/Flutter/smart_city/build/fluttertoast/intermediates/res/merged/profile/drawable/notification_icon_background.xml",
+        "source": "/Users/marcmagedbaky/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/marcmagedbaky/Desktop/Flutter/smart_city/build/fluttertoast/intermediates/res/merged/profile/drawable/notification_bg_low.xml",
+        "source": "/Users/marcmagedbaky/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/marcmagedbaky/Desktop/Flutter/smart_city/build/fluttertoast/intermediates/res/merged/profile/drawable/corner.xml",
+        "source": "/Users/marcmagedbaky/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/android/src/main/res/drawable/corner.xml"
+    },
+    {
+        "merged": "/Users/marcmagedbaky/Desktop/Flutter/smart_city/build/fluttertoast/intermediates/res/merged/profile/drawable/toast_bg.xml",
+        "source": "/Users/marcmagedbaky/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/android/src/main/res/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "/Users/marcmagedbaky/Desktop/Flutter/smart_city/build/fluttertoast/intermediates/res/merged/profile/drawable/notification_tile_bg.xml",
+        "source": "/Users/marcmagedbaky/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]
